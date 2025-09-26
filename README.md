@@ -11,7 +11,7 @@ docker-compose up --build -d
 3.Проверить работу:
 docker logs -f prompt_framework
 
-Остановка
+Остановка:
 docker-compose down
 
 PostgreSQL (опционально)
